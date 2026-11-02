@@ -1,0 +1,1 @@
+C:\LiveSessionKoenig\AI200_Capgemini\day1\hellopythonapp>az acr build --registry capgeday1100044ks2026 --image hellopythonapp:2.0 .
